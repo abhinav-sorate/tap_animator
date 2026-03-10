@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:tap_animator/tap_animator.dart';
 
-
 void main() => runApp(const OutlinedButtonExampleApp());
 
 class OutlinedButtonExampleApp extends StatelessWidget {
@@ -58,18 +57,20 @@ class TapAnimatorExample extends StatelessWidget {
         TapAnimator(
           duration: const Duration(milliseconds: 250),
           child: Container(
-              width: 100,
-              height: 100,
-              decoration: BoxDecoration(
-                  shape: BoxShape.circle,
-                  border: Border.all(color: Colors.red),
-                  color: Colors.redAccent),
-              child: const Center(
-                child: Text(
-                  'Click Me',
-                  style: TextStyle(color: Colors.white),
-                ),
-              )),
+            width: 100,
+            height: 100,
+            decoration: BoxDecoration(
+              shape: BoxShape.circle,
+              border: Border.all(color: Colors.red),
+              color: Colors.redAccent,
+            ),
+            child: const Center(
+              child: Text(
+                'Click Me',
+                style: TextStyle(color: Colors.white),
+              ),
+            ),
+          ),
         )
       ],
     );

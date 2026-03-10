@@ -13,6 +13,8 @@ and the Flutter guide for
 
 A simple package to animate click action for any widget.
 
+![Tap Animator Demo](https://raw.githubusercontent.com/abhinav-sorate/tap_animator/assets/demo.gif)
+
 ## Features
 
 Change animation duration as per requirements.
@@ -20,11 +22,11 @@ Change animation duration as per requirements.
 ## Getting started
 
 ### Installation
+
 ```yaml
 dependencies:
   tap_animator: ^1.0.0
 ```
-
 
 ```dart
 import 'package:tap_animator/tap_animator.dart';
@@ -47,8 +49,8 @@ MIT
 
 ## Author
 
-[AbhinavGS](https://github.com/abhinavGS)
+[abhinav-sorate](https://github.com/abhinav-sorate)
 
 ## Issues
 
-If you find any issues, please report them [here](https://github.com/AbhinavGS/tap_animator/issues)
+If you find any issues, please report them [here](https://github.com/abhinav-sorate/tap_animator/issues)
