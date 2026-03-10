@@ -13,7 +13,7 @@ and the Flutter guide for
 
 A simple package to animate click action for any widget.
 
-![Tap Animator Demo](https://raw.githubusercontent.com/abhinav-sorate/tap_animator/assets/demo.gif)
+![Tap Animator Demo](https://raw.githubusercontent.com/abhinav-sorate/tap_animator/main/assets/demo.gif)
 
 ## Features
 
