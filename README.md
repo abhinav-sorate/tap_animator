@@ -25,7 +25,7 @@ Change animation duration as per requirements.
 
 ```yaml
 dependencies:
-  tap_animator: ^1.0.0
+  tap_animator: ^1.0.1
 ```
 
 ```dart
